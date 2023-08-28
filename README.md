@@ -1,7 +1,7 @@
 
 <!-- dynamic typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&pause=1000&width=435&weight=700&size=35&center=true&lines=console.log(%22Hello%2C+World!%22);Nice+to+meet+you!;Stay+true+to+yourself+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&pause=1000&width=435&weight=400&size=30&center=true&lines=console.log(%22Hello%2C+World!%22);Nice+to+meet+you!;Stay+true+to+yourself+!" alt="Typing SVG" />
 </h1>
 
 <!-- ![Header](./assets/github-header-image.png) -->
