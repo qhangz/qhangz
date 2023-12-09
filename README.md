@@ -47,5 +47,5 @@ You are my  ![Visitor Count](https://profile-counter.glitch.me/qhangz/count.svg)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhangz&layout=compact)](https://github.com/qhangz/github-readme-stats) -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhangz&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhangz&show_icons=true)
 
