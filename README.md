@@ -14,7 +14,7 @@
 
 <!-- github streeak -->
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0&type=png" />
+   <img src="https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </div>
 
 <!-- knock code pictures -->
