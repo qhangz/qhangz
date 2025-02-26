@@ -13,11 +13,10 @@
 </picture>
 
 <!-- github streeak -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
-</div>
+</div> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
 <!-- knock code pictures -->
 <!-- <div align="center">
