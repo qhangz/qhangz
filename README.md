@@ -16,7 +16,7 @@
 <div align="center">
    <img src="https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0" alt="GitHub Streak" />
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 <!-- knock code pictures -->
 <!-- <div align="center">
     <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
