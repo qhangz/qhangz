@@ -16,9 +16,13 @@
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
 </div>
+<<<<<<< HEAD
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
 
+=======
+[![GitHub Streak](https://streak-stats.demolab.com?user=qhangz&theme=tokyonight-duo&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+>>>>>>> ad9857042f3ec973aec391205d9ca5dd138d0e76
 <!-- knock code pictures -->
 <!-- <div align="center">
     <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
