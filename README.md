@@ -50,9 +50,9 @@ You are my  ![Visitor Count](https://profile-counter.glitch.me/qhangz/count.svg)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhangz&show_icons=true) -->
 
-<h4 align="center">访客数 :eyes:</h4>
+<!-- <h4 align="center">访客数 :eyes:</h4>
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/qhangz/count.svg" alt="qhangz :: Visitor's Count" >
-</p>
+</p> -->
 
