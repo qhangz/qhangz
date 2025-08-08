@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 02:30 IST == 21:00 UTC ==beijin - 8h
+  schedule: # 5:00 UTC == beijin - 13:00
      - cron: "0 5 * * *"
     # - cron:  "0 */8 * * *" # run automatically every 8 hours
   workflow_dispatch:
@@ -16,10 +16,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Move 3D images to assets/3d-contrib/
+        run: |
+          mkdir -p assets/3d-contrib
+          mv -f profile-3d/*.svg assets/3d-contrib/
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "GitHub-Profile-3D-Contrib"
+          git add assets/3d-contrib
+          git commit -m "Update 3D Contribution Graph"
           git push
