@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   schedule: # 02:30 IST == 21:00 UTC ==beijin - 8h
      - cron: "0 5 * * *"
-    # - cron:  "0 */8 * * *" # every 8 hours
+    # - cron:  "0 */8 * * *" # run automatically every 8 hours
   workflow_dispatch:
 
 jobs:
