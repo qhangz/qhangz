@@ -7,9 +7,9 @@
 <!-- ![Header](./assets/github-header-image.png) -->
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/main/assets/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/main/assets/snake/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qhangz/qhangz/main/assets/snake/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- github streeak -->
@@ -35,7 +35,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
-![Contributions in 3D](assets/3d-contrib/profile-3d-contrib.svg)
+![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)
 
 <!-- 名人名言 -->
 <!-- <div align="center">
