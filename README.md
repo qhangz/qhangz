@@ -26,10 +26,10 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" /> -->
 
 <!-- knock code pictures -->
-<div align="center">
+<!-- <div align="center">
   <img style="zoom:100%;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
   <br>
-</div>
+</div> -->
 
 <img align="left" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
