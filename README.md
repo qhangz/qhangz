@@ -7,9 +7,9 @@
 <!-- ![Header](./assets/github-header-image.png)c -->
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/main/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qhangz/qhangz/main/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- github streeak -->
@@ -24,10 +24,9 @@
   <br>
 </div> -->
 
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
-  <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" style="width:88px;">
-  <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" style="width:88px;">
-</div>
+<img align="left" width="88" src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" />
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" />
 
 
 ![Contributions in 3D](https://cdn.jsdelivr.net/gh/qhangz/qhangz/profile-3d-contrib/profile-gitblock.svg)
