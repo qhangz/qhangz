@@ -24,9 +24,10 @@
   <br>
 </div> -->
 
-<img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" style="float:left; width:88px;">
-
-<img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" style="float:right; width:88px;">
+<div style="display:flex; justify-content:space-between; align-items:center;">
+  <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" style="width:88px;">
+  <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" style="width:88px;">
+</div>
 
 
 ![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)
