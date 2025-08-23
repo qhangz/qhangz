@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&pause=1000&width=435&weight=400&size=30&center=true&lines=Hello+World;Stay+true+to+yourself+!" alt="Typing SVG" />
 </h1>
 
-<!-- ![Header](./assets/github-header-image.png) -->
+<!-- ![Header](./assets/github-header-image.png)c -->
 <!-- snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qhangz/qhangz/output/github-contribution-grid-snake-dark.svg">
@@ -20,31 +20,22 @@
 
 <!-- knock code pictures -->
 <!-- <div align="center">
-    <img  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-</div> -->
-<!-- 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="zoom:50%;" /> -->
-
-<!-- knock code pictures -->
-<!-- <div align="center">
   <img style="zoom:100%;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
   <br>
 </div> -->
 
-<img align="left" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" style="float:left; width:88px;">
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" style="float:right; width:88px;">
+
 
 ![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)
 
-<!-- 名人名言 -->
+<!-- famous quotes -->
 <!-- <div align="center">
     <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div> -->
 
-<!-- <br>
-
-You are my  ![Visitor Count](https://profile-counter.glitch.me/qhangz/count.svg) visitor. -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhangz&layout=compact)](https://github.com/qhangz/github-readme-stats) -->
 
@@ -53,6 +44,6 @@ You are my  ![Visitor Count](https://profile-counter.glitch.me/qhangz/count.svg)
 <!-- <h4 align="center">访客数 :eyes:</h4>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/qhangz/count.svg" alt="qhangz :: Visitor's Count" >
+<img src="https://profile-counter.deno.dev/:qhangz:/count.svg" alt="qhangz :: Visitor's Count" >
 </p> -->
 
