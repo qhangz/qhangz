@@ -24,13 +24,13 @@
   <br>
 </div> -->
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
   <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/technologist.png" style="width:88px;">
   <img src="https://cdn.jsdelivr.net/gh/qhangz/qhangz/assets/artist.png" style="width:88px;">
 </div>
 
 
-![Contributions in 3D](/profile-3d-contrib/profile-gitblock.svg)
+![Contributions in 3D](https://cdn.jsdelivr.net/gh/qhangz/qhangz/profile-3d-contrib/profile-gitblock.svg)
 
 <!-- famous quotes -->
 <!-- <div align="center">
